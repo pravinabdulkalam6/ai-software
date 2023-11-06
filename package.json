@@ -1,0 +1,17 @@
+{
+  "name": "ai-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.7"
+  },
+  "dependencies": {
+    "@angular/core": "^16.2.12"
+  }
+}
